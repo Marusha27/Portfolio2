@@ -126,6 +126,7 @@ footer .social-link a:hover {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  text-decoration: none;
 }
 
 .btn-branding-outline {
@@ -135,6 +136,7 @@ footer .social-link a:hover {
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+  text-decoration: none;
 }
 
 .project-desciption {
